@@ -1,1 +1,1 @@
-Last Update: 2011-01-10T11:00:00Z - feat: Implement user registration form and client-side validation
+Last Update: 2011-01-11T14:00:00Z - chore: Setup database schema for users and integrate ORM
