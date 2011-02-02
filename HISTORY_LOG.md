@@ -1,1 +1,1 @@
-Last Update: 2011-01-06T10:00:00Z - feat: Initial project setup for web application
+Last Update: 2011-02-02T11:00:00Z - feat: Create initial dashboard wireframe and static layout
