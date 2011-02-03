@@ -1,1 +1,1 @@
-Last Update: 2011-02-02T11:00:00Z - feat: Create initial dashboard wireframe and static layout
+Last Update: 2011-02-03T16:00:00Z - docs: Update README with dashboard setup instructions
