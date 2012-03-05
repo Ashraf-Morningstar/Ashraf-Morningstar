@@ -1,1 +1,1 @@
-Last Update: 2011-03-03T11:00:00Z - fix: Address minor UI glitch in user profile page responsiveness
+Last Update: 2012-03-05T14:00:00Z - chore: Update version info and finalize release notes
