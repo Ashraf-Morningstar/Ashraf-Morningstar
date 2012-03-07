@@ -1,18 +1,14 @@
-export interface FeatureSevenOptions {
-  threshold?: number;
-  enabled?: boolean;
+interface FeatureSevenConfig {
+  name: string;
+  isEnabled: boolean;
 }
 
-export function initializeFeatureSeven(options: FeatureSevenOptions = {}): string {
-  const { threshold = 10, enabled = true } = options;
-
-  if (!enabled) {
-    return "Feature 7 is disabled.";
+export function activateFeatureSeven(config: FeatureSevenConfig): string {
+  if (config.isEnabled) {
+    console.log(`Feature ${config.name} is now active.`);
+    return `Activated: ${config.name}`;
   }
-
-  if (threshold < 0) {
-    console.warn("Feature 7 threshold cannot be negative.");
-  }
-
-  return `Feature 7 initialized with threshold: ${threshold}`;
+  return `Disabled: ${config.name}`;
 }
+
+export const FEATURE_SEVEN_VERSION = '1.0.0';
