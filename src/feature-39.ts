@@ -1,17 +1,15 @@
-interface Feature39Props {
+export interface Feature39Data {
   id: number;
   name: string;
-  isActive: boolean;
+  isEnabled: boolean;
 }
 
-const feature39Config: Feature39Props = {
-  id: 39,
-  name: "New Dashboard Widget",
-  isActive: true,
-};
-
-export function isFeature39Active(): boolean {
-  return feature39Config.isActive;
+export function createFeature39Instance(name: string, id: number): Feature39Data {
+  return {
+    id,
+    name,
+    isEnabled: true,
+  };
 }
 
-export default feature39Config;
+export const FEATURE_VERSION = "1.0.0";
