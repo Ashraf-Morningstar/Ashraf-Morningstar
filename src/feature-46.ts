@@ -1,12 +1,20 @@
-export interface Feature46Config {
-  isEnabled: boolean;
-  version: number;
+interface FeatureToggle {
+  id: number;
+  name: string;
+  isActive: boolean;
 }
 
-export function initializeFeature46(config: Feature46Config) {
-  if (config.isEnabled) {
-    console.log(`Feature 46 (v${config.version}) initialized.`);
-  } else {
-    console.log("Feature 46 is disabled.");
+const getFeatureStatus = (feature: FeatureToggle): string => {
+  if (feature.isActive) {
+    return `Feature ${feature.id} (${feature.name}) is currently ON.`;
   }
-}
+  return `Feature ${feature.id} (${feature.name}) is currently OFF.`;
+};
+
+const feature46: FeatureToggle = {
+  id: 46,
+  name: "Advanced Analytics Dashboard",
+  isActive: true,
+};
+
+console.log(getFeatureStatus(feature46));
