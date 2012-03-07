@@ -1,17 +1,16 @@
-export interface Feature42Config {
-  enabled: boolean;
-  version: string;
+interface FeatureFlags {
+  isActive: boolean;
+  version: number;
 }
 
-export function activateFeature42(config: Feature42Config): string {
-  if (config.enabled) {
-    return `Feature 42 (v${config.version}) activated successfully.`;
-  } else {
-    return "Feature 42 is currently disabled.";
+export function activateFeature42(config: FeatureFlags): string {
+  if (config.isActive && config.version >= 1) {
+    return `Feature 42 (v${config.version}) is now active!`;
   }
+  return `Feature 42 is not active or not supported.`;
 }
 
-export const FEATURE_42_DEFAULT_CONFIG: Feature42Config = {
-  enabled: true,
-  version: "1.0.0",
-};
+// Example usage (optional, for demonstration)
+const myConfig: FeatureFlags = { isActive: true, version: 2 };
+const status = activateFeature42(myConfig);
+console.log(status);
