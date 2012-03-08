@@ -1,16 +1,21 @@
-interface FeatureFlags {
-  feature62Enabled: boolean;
-  someSetting: string;
+export interface FeatureConfig {
+  id: number;
+  name: string;
+  isActive: boolean;
 }
 
-const defaultFeatureFlags: FeatureFlags = {
-  feature62Enabled: false,
-  someSetting: "default",
+export const getFeatureStatus = (config: FeatureConfig): string => {
+  if (config.isActive) {
+    return `Feature ${config.id}: "${config.name}" is currently enabled.`;
+  }
+  return `Feature ${config.id}: "${config.name}" is currently disabled.`;
 };
 
-export function getFeature62Status(flags: FeatureFlags = defaultFeatureFlags): string {
-  if (flags.feature62Enabled) {
-    return `Feature 62 is active with setting: ${flags.someSetting}`;
-  }
-  return "Feature 62 is currently disabled.";
-}
+const feature62Config: FeatureConfig = {
+  id: 62,
+  name: "Dynamic Theme Switcher",
+  isActive: true,
+};
+
+// Example usage:
+// console.log(getFeatureStatus(feature62Config));
