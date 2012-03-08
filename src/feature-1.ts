@@ -1,16 +1,20 @@
-interface FeatureSettings {
-  id: string;
-  isEnabled: boolean;
-  variant?: string;
+interface FeatureFlags {
+  isActive: boolean;
+  name: string;
 }
 
-export function initializeFeature(settings: FeatureSettings): string {
-  if (settings.isEnabled) {
-    const variantInfo = settings.variant ? ` (variant: ${settings.variant})` : '';
-    console.log(`Feature "${settings.id}" is active${variantInfo}.`);
-    return `Active: ${settings.id}`;
+export function getFeatureStatus(flags: FeatureFlags): string {
+  if (flags.isActive) {
+    return `Feature "${flags.name}" is currently active.`;
   } else {
-    console.log(`Feature "${settings.id}" is disabled.`);
-    return `Disabled: ${settings.id}`;
+    return `Feature "${flags.name}" is inactive.`;
   }
 }
+
+export const feature1Config: FeatureFlags = {
+  isActive: true,
+  name: "User Profile V2",
+};
+
+// Example usage (optional, can be removed to shorten further)
+// console.log(getFeatureStatus(feature1Config));
