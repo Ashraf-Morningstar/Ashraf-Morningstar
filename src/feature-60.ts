@@ -1,18 +1,14 @@
-export const FEATURE_60_ACTIVE: boolean = true;
+export interface FeatureConfig {
+  id: number;
+  name: string;
+  isEnabled: boolean;
+}
 
-export function getFeature60Status(): string {
-  if (FEATURE_60_ACTIVE) {
-    return "Feature 60 is currently enabled.";
+export function getFeatureStatus(config: FeatureConfig): string {
+  if (config.isEnabled) {
+    return `Feature ${config.id} (${config.name}) is currently enabled.`;
   }
-  return "Feature 60 is currently disabled.";
+  return `Feature ${config.id} (${config.name}) is disabled.`;
 }
 
-export interface Feature60Options {
-  logEnabled: boolean;
-  version: number;
-}
-
-export const defaultFeature60Options: Feature60Options = {
-  logEnabled: true,
-  version: 1.0,
-};
+export const FEATURE_60_VERSION = "1.0.0";
