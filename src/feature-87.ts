@@ -1,20 +1,21 @@
-interface Feature87Configuration {
-  isEnabled: boolean;
-  message: string;
-  version: string;
-}
+export class Feature87Processor {
+  private _isActive: boolean = false;
+  public readonly featureId: string = "FEAT-87";
 
-const defaultFeatureConfig: Feature87Configuration = {
-  isEnabled: true,
-  message: "Feature 87 is active!",
-  version: "1.0.0",
-};
-
-export function getFeature87Status(config: Feature87Configuration = defaultFeatureConfig): string {
-  if (config.isEnabled) {
-    return `${config.message} (Version: ${config.version})`;
+  constructor(initialState: boolean = false) {
+    this._isActive = initialState;
   }
-  return "Feature 87 is currently disabled.";
+
+  toggleActivation(): void {
+    this._isActive = !this._isActive;
+    console.log(`Feature ${this.featureId} is now ${this._isActive ? 'active' : 'inactive'}.`);
+  }
+
+  getStatus(): boolean {
+    return this._isActive;
+  }
 }
 
-export const currentStatus = getFeature87Status();
+export function greetFeatureUser(): string {
+  return "Welcome to Feature 87!";
+}
