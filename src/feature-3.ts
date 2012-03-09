@@ -1,9 +1,9 @@
-export function processFeature3Data(data: string[]): string {
-  if (data.length === 0) {
-    return "No data for Feature 3";
-  }
-  const processed = data.map(item => item.trim().toUpperCase());
-  return `Processed items: ${processed.join(', ')}`;
+export function processFeatureThreeData(data: string[]): { count: number; unique: number } {
+  const uniqueItems = new Set(data);
+  return {
+    count: data.length,
+    unique: uniqueItems.size,
+  };
 }
 
-export const FEATURE_3_ENABLED = true;
+export const FEATURE_THREE_VERSION = "1.0.0";
