@@ -1,20 +1,12 @@
-interface FeatureFlags {
-  isActive: boolean;
-  name: string;
+export interface Feature1Options {
+  message?: string;
+  count?: number;
 }
 
-export function getFeatureStatus(flags: FeatureFlags): string {
-  if (flags.isActive) {
-    return `Feature "${flags.name}" is currently active.`;
-  } else {
-    return `Feature "${flags.name}" is inactive.`;
-  }
+export function initializeFeature1(options: Feature1Options = {}): string {
+  const { message = "Feature 1 initialized!", count = 0 } = options;
+  console.log(`Log from Feature 1: ${message} (Count: ${count})`);
+  return `Feature 1 setup complete with message: "${message}"`;
 }
 
-export const feature1Config: FeatureFlags = {
-  isActive: true,
-  name: "User Profile V2",
-};
-
-// Example usage (optional, can be removed to shorten further)
-// console.log(getFeatureStatus(feature1Config));
+export const FEATURE_1_NAME = "MyAwesomeFeature1";
