@@ -1,17 +1,17 @@
-interface FeatureData {
-  id: string;
-  isEnabled: boolean;
-  value?: string;
+interface Feature52Options {
+  enabled: boolean;
+  name: string;
+  version?: string;
 }
 
-export function initializeFeature52(data: FeatureData): FeatureData {
-  if (data.id === "feature-52" && data.isEnabled && !data.value) {
-    return { ...data, value: "default-value-52" };
+export function initializeFeature52(options: Feature52Options): string {
+  if (options.enabled) {
+    const versionInfo = options.version ? ` (v${options.version})` : '';
+    return `Feature 52: "${options.name}"${versionInfo} has been initialized.`;
   }
-  return data;
+  return `Feature 52: "${options.name}" is disabled and will not be initialized.`;
 }
 
-export const FEATURE_52_CONFIG = {
-  enabledByDefault: true,
-  version: "1.0.0",
-};
+// Example usage (optional, could be in a separate test file)
+// const config: Feature52Options = { enabled: true, name: "Data Sync", version: "1.0.0" };
+// console.log(initializeFeature52(config));
