@@ -1,1 +1,1 @@
-Last Update: 2019-06-05T14:00:00Z - chore: Final pre-release tweaks for v1.0.0
+Last Update: 2012-05-30T14:00:00Z - docs: Update README with deployment instructions

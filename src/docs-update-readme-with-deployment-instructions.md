@@ -1,6 +1,6 @@
-# docs: update README with deployment instructions
+# docs: Update README with deployment instructions
 
-Added comprehensive deployment guide and new feature overview to the README.
+Added detailed steps for deploying the Go backend to production.
 
-Date: 2024-03-05T13:00:00Z
+Date: 2012-05-30T14:00:00Z
 Author: Ashraf-Morningstar
