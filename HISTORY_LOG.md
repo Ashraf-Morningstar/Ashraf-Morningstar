@@ -1,1 +1,1 @@
-Last Update: 2019-04-15T15:00:00Z - feat: Add LFS tracked assets for user avatars
+Last Update: 2016-05-16T10:00:00Z - fix(catalog): Optimize product search query
