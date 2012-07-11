@@ -1,1 +1,1 @@
-Last Update: 2016-05-16T10:00:00Z - fix(catalog): Optimize product search query
+Last Update: 2012-07-11T10:30:00Z - fix: Correct JWT expiration parsing logic
