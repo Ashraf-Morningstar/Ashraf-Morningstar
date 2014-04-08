@@ -1,1 +1,1 @@
-Last Update: 2016-01-01T15:30:00Z - chore: Clean up old feature flags post v1.0.0 release
+Last Update: 2014-04-08T11:00:00Z - fix: Prevent app crash on specific login error code
