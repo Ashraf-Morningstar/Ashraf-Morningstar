@@ -1,1 +1,1 @@
-Last Update: 2012-03-01T13:10:00Z - fix: Correct typo in API response message
+Last Update: 2015-01-16T13:00:00Z - chore: Update dependencies and linting rules
