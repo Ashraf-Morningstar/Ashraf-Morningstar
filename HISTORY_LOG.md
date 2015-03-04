@@ -1,1 +1,1 @@
-Last Update: 2012-04-12T10:00:00Z - feat: Add basic product model and CRUD operations
+Last Update: 2015-03-04T15:30:00Z - feat(catalog): Initial product model and CRUD operations
