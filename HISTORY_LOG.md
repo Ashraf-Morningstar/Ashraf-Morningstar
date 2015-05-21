@@ -1,1 +1,1 @@
-Last Update: 2016-01-01T15:30:00Z - chore: Clean up old feature flags post v1.0.0 release
+Last Update: 2015-05-21T11:00:00Z - fix(config): Update default database connection string
