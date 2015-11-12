@@ -1,1 +1,1 @@
-Last Update: 2013-09-11T12:00:00Z - feat: Add basic Stripe checkout integration
+Last Update: 2015-11-12T16:00:00Z - chore: Add large payment gateway certs to LFS
