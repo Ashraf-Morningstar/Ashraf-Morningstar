@@ -1,1 +1,1 @@
-Last Update: 2012-03-01T13:10:00Z - fix: Correct typo in API response message
+Last Update: 2015-12-15T15:00:00Z - chore: Final checks for v1.1.0 release
