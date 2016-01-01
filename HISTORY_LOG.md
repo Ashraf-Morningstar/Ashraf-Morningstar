@@ -1,1 +1,1 @@
-Last Update: 2014-01-06T10:00:00Z - chore: Clean up deprecated configurations
+Last Update: 2016-01-01T15:30:00Z - chore: Clean up old feature flags post v1.0.0 release
