@@ -1,1 +1,1 @@
-Last Update: 2012-05-30T14:00:00Z - docs: Update README with deployment instructions
+Last Update: 2016-01-01T13:30:00Z - docs: Finalize release notes for v1.0.0
