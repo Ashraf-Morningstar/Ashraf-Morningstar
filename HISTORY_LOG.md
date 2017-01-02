@@ -1,1 +1,1 @@
-Last Update: 2012-01-09T09:00:00Z - Initial commit
+Last Update: 2017-01-02T10:00:00Z - Initial project setup with React and TypeScript
