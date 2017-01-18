@@ -1,1 +1,1 @@
-Last Update: 2017-01-02T10:00:00Z - Initial project setup with React and TypeScript
+Last Update: 2017-01-18T13:00:00Z - feat: Build product card component
