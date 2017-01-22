@@ -1,1 +1,1 @@
-Last Update: 2017-01-18T13:00:00Z - feat: Build product card component
+Last Update: 2017-01-22T16:00:00Z - chore: Add product images with LFS tracking
