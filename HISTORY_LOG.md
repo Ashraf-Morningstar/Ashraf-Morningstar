@@ -1,1 +1,1 @@
-Last Update: 2017-01-02T10:00:00Z - Initial project setup with React and TypeScript
+Last Update: 2017-02-01T14:00:00Z - chore: Prepare for v1.0.0 release
