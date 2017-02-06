@@ -1,1 +1,1 @@
-Last Update: 2022-12-21T11:00:00Z - docs: Update final developer guide for the year
+Last Update: 2017-02-06T10:30:00Z - fix: Patch critical login redirect error
