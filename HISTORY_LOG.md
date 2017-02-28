@@ -1,1 +1,1 @@
-Last Update: 2017-02-24T15:00:00Z - feat: Implement Redux Saga for async data flow management
+Last Update: 2017-02-28T11:00:00Z - chore: Refactor API calls to use Saga patterns
