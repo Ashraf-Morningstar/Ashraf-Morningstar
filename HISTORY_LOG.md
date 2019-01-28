@@ -1,1 +1,1 @@
-Last Update: 2019-01-23T16:00:00Z - feat: Implement basic user registration form
+Last Update: 2019-01-28T13:45:00Z - feat: Add login functionality (Co-authored-by: CoDevPartner)
