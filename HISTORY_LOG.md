@@ -1,1 +1,1 @@
-Last Update: 2019-01-07T10:00:00Z - feat: Initial project setup with React and TypeScript
+Last Update: 2019-04-06T14:30:00Z - fix: Patch critical login vulnerability, addresses #1
