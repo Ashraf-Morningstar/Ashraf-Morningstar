@@ -1,1 +1,1 @@
-Last Update: 2020-12-20T14:00:00Z - chore: Update dependencies and cleanup
+Last Update: 2019-04-15T15:00:00Z - feat: Add LFS tracked assets for user avatars
