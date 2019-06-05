@@ -1,1 +1,1 @@
-Last Update: 2020-03-11T13:00:00Z - chore: Update version to 1.0.0 in package.json
+Last Update: 2019-06-05T14:00:00Z - chore: Final pre-release tweaks for v1.0.0
