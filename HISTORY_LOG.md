@@ -1,1 +1,1 @@
-Last Update: 2020-01-09T10:00:00Z - Initial project setup with React and TypeScript
+Last Update: 2020-01-21T13:00:00Z - feat: Create dashboard layout and navigation
