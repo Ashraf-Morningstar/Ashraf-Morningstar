@@ -1,1 +1,1 @@
-Last Update: 2021-11-03T14:00:00Z - chore(deps): Update all major dependencies and refactor build configs
+Last Update: 2020-03-11T13:00:00Z - chore: Update version to 1.0.0 in package.json
