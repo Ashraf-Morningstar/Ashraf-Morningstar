@@ -1,1 +1,1 @@
-Last Update: 2019-01-28T13:45:00Z - feat: Add login functionality (Co-authored-by: CoDevPartner)
+Last Update: 2021-01-14T15:45:00Z - feat(auth): Implement login/registration UI and integrate formik
