@@ -1,1 +1,1 @@
-Last Update: 2021-01-14T15:45:00Z - feat(auth): Implement login/registration UI and integrate formik
+Last Update: 2021-01-19T16:00:00Z - refactor(auth): Improve password hashing logic based on review feedback
