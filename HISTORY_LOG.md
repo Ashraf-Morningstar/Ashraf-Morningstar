@@ -1,1 +1,1 @@
-Last Update: 2022-05-03T11:00:00Z - docs: Update README and release notes for v1.0.0
+Last Update: 2021-11-03T14:00:00Z - chore(deps): Update all major dependencies and refactor build configs
