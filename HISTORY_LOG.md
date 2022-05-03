@@ -1,1 +1,1 @@
-Last Update: 2023-04-18T14:00:00Z - chore(release): Update changelog for v1.0.0
+Last Update: 2022-05-03T11:00:00Z - docs: Update README and release notes for v1.0.0
