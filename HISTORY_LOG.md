@@ -1,1 +1,1 @@
-Last Update: 2024-06-20T17:00:00Z - refactor: YOLO, rewrote the entire auth middleware. It *should* work.
+Last Update: 2023-12-11T16:00:00Z - docs: Update README with contributing guidelines
