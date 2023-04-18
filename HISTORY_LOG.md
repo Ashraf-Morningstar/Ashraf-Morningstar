@@ -1,1 +1,1 @@
-Last Update: 2024-03-05T13:00:00Z - docs: update README with deployment instructions
+Last Update: 2023-04-18T14:00:00Z - chore(release): Update changelog for v1.0.0
