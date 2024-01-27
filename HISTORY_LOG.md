@@ -1,1 +1,1 @@
-Last Update: 2012-03-05T14:00:00Z - chore: Update version info and finalize release notes
+Last Update: 2024-01-27T10:00:00Z - docs: Update README and fix minor styling issue
