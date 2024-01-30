@@ -1,1 +1,1 @@
-Last Update: 2016-01-01T15:30:00Z - chore: Clean up old feature flags post v1.0.0 release
+Last Update: 2024-01-30T10:30:00Z - fix: Resolve critical login redirection issue
