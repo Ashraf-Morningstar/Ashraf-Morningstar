@@ -1,1 +1,1 @@
-Last Update: 2024-12-19T14:00:00Z - docs: Update README and add deployment instructions
+Last Update: 2024-03-05T13:00:00Z - docs: update README with deployment instructions
