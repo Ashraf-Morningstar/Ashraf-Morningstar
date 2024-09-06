@@ -1,1 +1,1 @@
-Last Update: 2024-01-19T10:00:00Z - chore: update CI/CD pipeline for new features
+Last Update: 2024-06-20T17:00:00Z - refactor: YOLO, rewrote the entire auth middleware. It *should* work.
