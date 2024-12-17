@@ -1,5 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on Morningstar Construction<br>👯 I’m looking to collaborate on Everyone<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning Coreldraw and Photoshop<br>💬 Ask me about<br>⚡ Fun fact
+**Name:** Ashraf Morningstar  
+**Profession:** Graphic Designer
+
+Hello! I'm Ashraf Morningstar, a dedicated graphic designer with a passion for creating visually compelling and innovative designs. My expertise lies in transforming ideas into captivating visuals that effectively communicate messages and engage audiences. Whether it's digital art, branding, or user interface design, I thrive on bringing creative concepts to life.
+
+## Skills
+- Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+- Logo Design and Branding
+- UI/UX Design
+- Digital Illustration
+- Typography and Layout Design
+
 
 
 ## 🌐 Socials:
