@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Morningstar Construction<br>👯 I’m looking to collaborate on Everyone<br>🤝 I’m looking for help with anything<br>🌱 I’m currently learning Coreldraw and Photoshop<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Morningstar Construction<br>👯 I’m looking to collaborate to Everyone<br>🤝 I Will help with anything<br>🌱 I’m currently learning Coreldraw and Photoshop<br>💬 Ask me about Anything codeing and Grapic<br>⚡ Fun fact<br>
 **Name:** Ashraf Morningstar  
 **Profession:** Graphic Designer
 
