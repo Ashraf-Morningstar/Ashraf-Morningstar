@@ -1,6 +1,6 @@
 # Initial project setup
 
-feat: Initialize repository with basic project structure, .gitignore for Python data science, and initial README.
+First commit, basic folder structure for React & TypeScript application.
 
-Date: 2024-11-28T09:00:00Z
+Date: 2023-01-12T10:00:00Z
 Author: Ashraf-Morningstar
