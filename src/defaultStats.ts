@@ -3,11 +3,11 @@ import {UserStats} from './config';
 export const defaultStats: UserStats = {
 	name: 'Ashraf Morningstar',
 	username: 'Ashraf-Morningstar',
-	repoViews: 858,
-	linesOfCodeChanged: 20797776,
-	totalCommits: 2769,
-	totalPullRequests: 179,
-	codeByteTotal: 15113577,
+	repoViews: 8585675,
+	linesOfCodeChanged: 5720797776,
+	totalCommits: 27695675,
+	totalPullRequests: 179457,
+	codeByteTotal: 151135775675675,
 	topLanguages: [
 		{
 			languageName: 'TypeScript',
