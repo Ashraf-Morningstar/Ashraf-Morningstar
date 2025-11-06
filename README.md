@@ -1,9 +1,3 @@
-# Generate GitHub Stats GIFs
-
-This project generates GIFs for each of the GitHub stats cards. Some stats below are placeholders in lieu of live account data.
-
-# Examples
-
 ![Readme](./out/readme.gif)
 ![Main Stats](./out/main-stats.gif)
 ![Languages](./out/languages.gif)
