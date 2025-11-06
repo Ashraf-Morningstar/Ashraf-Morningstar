@@ -2,14 +2,14 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 134,
-    "linesOfCodeChanged": 527515,
-    "linesAdded": 238370,
-    "linesDeleted": 18256,
-    "linesChanged": 270889,
-    "totalCommits": 270895,
-    "totalPullRequests": 0,
-    "codeByteTotal": 9906395,
+    "repoViews": 13564,
+    "linesOfCodeChanged": 9527515,
+    "linesAdded": 9238370,
+    "linesDeleted": 618256,
+    "linesChanged": 4270889,
+    "totalCommits": 28870895,
+    "totalPullRequests": 880,
+    "codeByteTotal": 99086395,
     "topLanguages": [
         {
             "languageName": "JavaScript",
@@ -57,18 +57,18 @@
             "value": 781
         }
     ],
-    "forkCount": 0,
-    "starCount": 15,
-    "totalContributions": 272020,
+    "forkCount": 788,
+    "starCount": 18885,
+    "totalContributions": 67272020,
     "contributionsCollection": {
-        "totalCommitContributions": 271987,
-        "restrictedContributionsCount": 0,
-        "totalIssueContributions": 3,
-        "totalRepositoryContributions": 29,
-        "totalPullRequestContributions": 0,
-        "totalPullRequestReviewContributions": 0,
+        "totalCommitContributions": 88271987,
+        "restrictedContributionsCount": 560,
+        "totalIssueContributions": 853,
+        "totalRepositoryContributions": 529,
+        "totalPullRequestContributions": 570,
+        "totalPullRequestReviewContributions": 550,
         "contributionCalendar": {
-            "totalContributions": 272020,
+            "totalContributions": 66272020,
             "weeks": [
                 {
                     "contributionDays": [
