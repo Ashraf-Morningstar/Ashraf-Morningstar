@@ -80,11 +80,11 @@ export const defaultStats: UserStats = {
 			value: 260,
 		},
 	],
-	forkCount: 14,
-	starCount: 83,
+	forkCount: 154,
+	starCount: 8355,
 	totalContributions: 3372,
-	closedIssues: 30,
-	openIssues: 14,
+	closedIssues: 304,
+	openIssues: 145,
 	fetchedAt: 1706728549589,
 	contributionData: [
 		{
