@@ -2,24 +2,24 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 129,
-    "linesOfCodeChanged": 437647,
-    "linesAdded": 148709,
-    "linesDeleted": 18057,
-    "linesChanged": 270881,
-    "totalCommits": 270888,
+    "repoViews": 134,
+    "linesOfCodeChanged": 527239,
+    "linesAdded": 238285,
+    "linesDeleted": 18070,
+    "linesChanged": 270884,
+    "totalCommits": 270890,
     "totalPullRequests": 0,
-    "codeByteTotal": 6927164,
+    "codeByteTotal": 9906395,
     "topLanguages": [
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 5359543
+            "value": 8003422
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 742530
+            "value": 1077882
         },
         {
             "languageName": "Java",
@@ -59,16 +59,16 @@
     ],
     "forkCount": 0,
     "starCount": 3,
-    "totalContributions": 272012,
+    "totalContributions": 272015,
     "contributionsCollection": {
-        "totalCommitContributions": 271979,
+        "totalCommitContributions": 271982,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 3,
         "totalRepositoryContributions": 29,
         "totalPullRequestContributions": 0,
         "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 272012,
+            "totalContributions": 272015,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3421,7 +3421,7 @@
                             "date": "2025-11-05"
                         },
                         {
-                            "contributionCount": 1935,
+                            "contributionCount": 1938,
                             "date": "2025-11-06"
                         }
                     ]
@@ -3431,5 +3431,5 @@
     },
     "closedIssues": 1,
     "openIssues": 2,
-    "fetchedAt": 1762434100650
+    "fetchedAt": 1762434778835
 }
