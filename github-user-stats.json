@@ -2,24 +2,24 @@
     "name": "Ashraf Morningstar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/150266453?v=4",
     "username": "Ashraf-Morningstar",
-    "repoViews": 13564,
-    "linesOfCodeChanged": 9527515,
-    "linesAdded": 9238370,
-    "linesDeleted": 618256,
-    "linesChanged": 4270889,
-    "totalCommits": 28870895,
-    "totalPullRequests": 880,
-    "codeByteTotal": 99086395,
+    "repoViews": 367,
+    "linesOfCodeChanged": 652940,
+    "linesAdded": 345877,
+    "linesDeleted": 36151,
+    "linesChanged": 270912,
+    "totalCommits": 270919,
+    "totalPullRequests": 0,
+    "codeByteTotal": 12885633,
     "topLanguages": [
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 8003422
+            "value": 10647301
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 1077882
+            "value": 1413241
         },
         {
             "languageName": "Java",
@@ -57,18 +57,18 @@
             "value": 781
         }
     ],
-    "forkCount": 788,
-    "starCount": 18885,
-    "totalContributions": 67272020,
+    "forkCount": 0,
+    "starCount": 15,
+    "totalContributions": 272044,
     "contributionsCollection": {
-        "totalCommitContributions": 88271987,
-        "restrictedContributionsCount": 560,
-        "totalIssueContributions": 853,
-        "totalRepositoryContributions": 529,
-        "totalPullRequestContributions": 570,
-        "totalPullRequestReviewContributions": 550,
+        "totalCommitContributions": 272010,
+        "restrictedContributionsCount": 0,
+        "totalIssueContributions": 3,
+        "totalRepositoryContributions": 30,
+        "totalPullRequestContributions": 0,
+        "totalPullRequestReviewContributions": 0,
         "contributionCalendar": {
-            "totalContributions": 66272020,
+            "totalContributions": 272044,
             "weeks": [
                 {
                     "contributionDays": [
@@ -3421,8 +3421,12 @@
                             "date": "2025-11-05"
                         },
                         {
-                            "contributionCount": 1943,
+                            "contributionCount": 1964,
                             "date": "2025-11-06"
+                        },
+                        {
+                            "contributionCount": 3,
+                            "date": "2025-11-07"
                         }
                     ]
                 }
@@ -3431,5 +3435,5 @@
     },
     "closedIssues": 1,
     "openIssues": 2,
-    "fetchedAt": 1762435554585
+    "fetchedAt": 1762519769189
 }
