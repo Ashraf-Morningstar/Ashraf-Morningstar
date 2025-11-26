@@ -1,0 +1,819 @@
+# Ashraf Siddiqui - Life Story
+
+Today I create a Github account so let's see how far I can go and check this website will shutdown.
+
+Today I created this repository. This was a very hard website to learn and create.
+
+---
+
+## 2009
+
+### 28 March
+
+I start learning Java but Jack's blog is not good.
+Jack tells me about YouTube and Subroacks and the blog of Lucas Nelly.
+
+### June
+
+Google I/O on YouTube but WiFi is slow.
+
+### October
+
+Computer crash (Windows 7).
+
+### December
+
+Jack tells me never create public repositories — hackers hack repositories, change code, and hack computer. But I try to create a repository (joke).
+
+---
+
+## 2010
+
+Just started but nothing happened. Now I go to school.
+
+### March
+
+My birthday.
+Now I started learning and writing English very flawedly.
+
+### June
+
+New school and made a new friend called Irfan who lived near my house.
+
+### August
+
+I started talking to people and made new friends: JattaShankar, Tausif, Soyam, Sarfraz.
+
+### Later 2010
+
+I see a website called LiveLeak.
+
+### November
+
+People talk about something called dark web in 4chan — is it real or not? And TOR browser.
+TOR browser is not working — fake.
+
+### December
+
+Jack created a YouTube channel. I think I should drop Java learning because it was very hard to understand. And also Ammi-Abba were very angry at me about the computer.
+
+---
+
+## 2011
+
+Nothing happened in January.
+
+### March
+
+Birthday.
+
+### May
+
+Holiday.
+
+### July
+
+New computer.
+
+### October
+
+Play new game GTA Vice City — best ever. Helicopter mission not completed.
+
+### December
+
+GTA completed. Happy.
+
+---
+
+## 2012
+
+Happy New Year.
+
+### January
+
+People talk about something "Dart Google" on YouTube. I didn’t find anything on Yahoo. Waste of time.
+
+### March
+
+No cake on my birthday.
+
+### May
+
+Started learning Python. A 4chan person told me to watch Gary on Facebook — a genius Python coder, but I didn’t understand coding.
+
+### June
+
+Learning.
+
+### July
+
+Downloaded Yo Yo Honey Singh — Brown Rang.
+
+### August
+
+Nothing happened.
+
+### September
+
+Started creating a program for downloading YouTube videos with help of Jack and Alex.
+
+### December
+
+New software launched: AM Video Downloader.
+Happy New Year.
+
+---
+
+## 2013
+
+### January
+
+Watched anime "Wolf Children" on YouTube — I cried.
+Bug in software; I didn’t know how to fix it.
+
+### February
+
+Testing CorelDraw — loved it.
+Made new design.
+
+### March
+
+Birthday.
+
+### May
+
+Holiday. Maintaining my program. Working hard to create new software.
+
+### June
+
+New software update.
+
+### July
+
+New features added.
+
+### August
+
+Learning new programming language: Go. Also learning advanced English. Stopped learning Java.
+
+### September
+
+Met my big brother's friend Chetan.
+
+### October
+
+New update in software.
+
+### November
+
+Added playlist downloading feature.
+
+### December
+
+Jack got a job and left. I didn’t know what to do.
+Happy New Year.
+
+---
+
+## 2014
+
+### January
+
+Learning new things on Google.
+
+### February
+
+Just fixing bugs.
+
+### March
+
+Birthday.
+Testing new software.
+
+### April
+
+Learning.
+
+### May
+
+Working and learning many things in school.
+
+### June
+
+New semester. Jack leaves. Only me and Alex maintaining software.
+
+### July
+
+Update crashing.
+
+### August
+
+New person joined team but not free.
+
+### September
+
+Met new friend Ansh Mourya.
+Fixing bugs.
+
+### October
+
+Can’t find anyone to help maintain software.
+
+### November
+
+Team falling apart as Alex leaves for studies.
+
+### December
+
+AM Video Downloader shut down. Repository deleted. Team disbanded.
+Now I'm on my own.
+
+---
+
+## 2015
+
+### January
+
+Helping others with coding.
+
+### February
+
+Sold a project first time for cash — created WordPad-like website for a college student.
+
+### March
+
+Birthday. Helping others build websites.
+
+### April
+
+Created live weather website using AccuWeather API.
+
+### May
+
+Worked for a US company for testing their website — for free.
+
+### June
+
+Tried joining hacking groups. Installed TOR.
+
+### July
+
+Taking break — life going hell.
+
+### August
+
+Some coding.
+
+### September
+
+Helping others create refined theme. Computer crashed.
+
+### October
+
+Working from cyber cafe. Missing something in life. Moved to graphic design.
+
+### November
+
+Helping people create "JackEle" program in Python.
+
+### December
+
+Started YouTube channel. Happy New Year.
+
+---
+
+## 2016
+
+### January
+
+Team creating bot for fake followers — got paid $280 for 3 months. Bought laptop for hacking.
+Found AlphaBay — needed Bitcoin, didn’t know what it was.
+Played GTA San Andreas — no audio.
+
+### February
+
+Trying to join hacking groups.
+
+### March
+
+Birthday.
+Joined hacking group in dark web — chose username Morningstar.
+Hacked US military website.
+
+### April
+
+Saw US govt wrongdoings. Wrote personal warnings.
+
+### May
+
+Created Trojan targeting US system.
+Joined local hacking classes.
+
+### June
+
+Creating websites for money.
+Hacked Paytm wallet.
+Worked with anime video website.
+Uploaded videos on YouTube.
+
+### July
+
+Website live. Created Telegram channel.
+Trojan deployed — access to system.
+
+### August
+
+Warning about US.
+
+### September
+
+Learning VFX, UI design, graphic design.
+
+### October
+
+Coding with others.
+
+### November
+
+Joined offline graphic design classes. Created YouTube Ad Blocker.
+
+### December
+
+Ad blocker for Chrome completed.
+TikTok bot created but failed.
+New Year.
+
+---
+
+## 2017
+
+### January
+
+Bot working.
+
+### February
+
+TikTok bot fully working. Repository live.
+
+### March
+
+YouTube 3K subscribers.
+Birthday.
+Looking for new project.
+
+### April
+
+Working on secret project.
+
+### May
+
+Testing YouTube Vanced. Found many bugs.
+Tried hacking Chinese government website.
+Created hacking website.
+
+### June
+
+Freelance graphic & VFX for Snickers.
+
+### July
+
+Working for banner shop. Teaching VFX.
+
+### August
+
+Testing with Master_T & ZaneZam in Vanced.
+
+### September
+
+Created Twitter Ad Blocker & Reddit Mod.
+YouTube Ad Blocker deleted due to Google complaint.
+Deleted many repositories.
+
+### October
+
+Warned to never make ad blockers again.
+
+### November
+
+Testing projects.
+
+### December
+
+Announced plans to create Instagram mod.
+Happy New Year.
+
+---
+
+## 2018
+
+### January
+
+Final year of undergrad — fewer projects.
+Shut down weather website.
+
+### February
+
+Trojan inserted in Chinese govt website (Uyghur data). Shared info with UN but no action.
+
+### March
+
+Birthday.
+
+### April
+
+Creating SMS Bomber.
+
+### May
+
+SMS Bomber live.
+Learning C++.
+Failed exam.
+
+### June
+
+Back to work.
+
+### July
+
+Joined big team — created Chrome extension (voice command).
+
+### August
+
+Voice command extension launched.
+Working on YouTube subscriber bot.
+
+### September
+
+Freelancing — bot delayed.
+
+### October
+
+Subscriber bot live.
+
+### November
+
+Bug fix update.
+Freelancing.
+
+### December
+
+Secret graphic project.
+Happy New Year.
+
+---
+
+## 2019
+
+### January
+
+Copyright & community strikes.
+Deleting many repos.
+
+### February
+
+Helping projects.
+Undergrad exams.
+
+### March
+
+Birthday.
+Bug fixes.
+
+### April
+
+Freelancing for film VFX team.
+
+### May
+
+Arrested locally. Many accounts deleted.
+After parole, kept only oldest account.
+Now only graphic designer.
+Graduated.
+
+### June
+
+Working for a firm.
+Helping people with coding.
+
+### July
+
+Helping girl with UI/UX.
+Teaching in institute.
+
+### August
+
+Making new UI designing software: MSTAR UI/UX.
+
+### September
+
+Software working but hard.
+
+### October
+
+Software still buggy.
+
+### November
+
+Released beta version of MSTAR.
+
+### December
+
+Software failed. Waiting for response.
+
+---
+
+## 2020
+
+### January
+
+Final exams — less work.
+
+### February
+
+Disconnected MSTAR project — deleted files.
+Graduation exams.
+
+### March
+
+Coding.
+Got COVID.
+
+### May
+
+Recovered. Doing design work.
+
+### June
+
+Doing free UI design.
+
+### July
+
+COVID again.
+
+### August
+
+Recovered. Working with employer service.
+Memory problems starting.
+
+### September
+
+COVID third time. Bed rest.
+
+### October
+
+Worked with Supercell team for a month.
+
+### November
+
+Helping others.
+
+### December
+
+Worked for AI image company.
+Created Python script for random images.
+Happy New Year.
+
+---
+
+## 2021
+
+### January
+
+Mental health bad.
+
+### February
+
+Leaving again — mental health.
+
+### March
+
+Birthday.
+Taking leave.
+
+### April
+
+Deleting many repositories.
+
+### May
+
+Legal case ended.
+
+### June
+
+Last message — only helping graphics.
+
+### July
+
+Worked with private AI logo design company.
+
+### August
+
+Deleting repositories due to copy-pasting.
+
+### September
+
+Taking time off.
+
+### October
+
+Watching anime.
+
+### November
+
+Taking time off — mental health.
+
+### December
+
+Made music player app (private).
+
+---
+
+## 2022
+
+### January
+
+Working for Finland-based company.
+
+### February
+
+Left company — payment issues.
+
+### March
+
+Birthday. Doing free work.
+
+### April
+
+Testing automatic AI generation program.
+
+### May
+
+Still working on same idea.
+
+### June
+
+Dropped AI idea — too complicated.
+
+### July
+
+Back again — helping work but not code.
+
+### August
+
+Sister sick. Working in father's shop.
+
+### September
+
+Only testing work.
+
+### October
+
+Helping at father’s shop.
+
+### November
+
+Helping others.
+
+### December
+
+Working with private company.
+Happy New Year.
+
+---
+
+## 2023
+
+### January
+
+Still working with same company.
+
+### February
+
+Learned how people exploit and give nothing back.
+
+### March
+
+Birthday. Thinking about making account public.
+
+### April
+
+Doing some work.
+
+### May
+
+Working in shop.
+
+### June
+
+Dropped studies due to finances.
+
+### July
+
+Making logos for free.
+
+### August
+
+Working for small game company.
+Helping community.
+
+### September
+
+Helping but not coding.
+
+### October
+
+Mindset not good. Helping UI only.
+
+### November
+
+Personal work.
+
+### December
+
+Free — helping with UI design.
+
+---
+
+## 2024
+
+### January
+
+Personal problem.
+
+### February
+
+Family problem.
+
+### March
+
+Birthday. Family + financial problems.
+
+### April
+
+Still problems.
+
+### May
+
+Free — doing graphic work.
+
+### June
+
+Working for private person.
+
+### July
+
+Helping friend with work.
+
+### August
+
+Still working on friend’s project.
+
+### September
+
+Project finally completed.
+Free from next month.
+
+### October
+
+Wrote message about people underestimating me.
+
+### November
+
+Working on new project (secret).
+
+### December
+
+Completing all projects — big news coming.
+
+---
+
+## 2025
+
+### January
+
+Hello everyone. My real name is Ashraf Siddiqui.
+Known as Morningstar, AlfaZeus, RedEye, PixelMaster, ArtWizard, etc.
+
+I started a project 15.9 years ago to see if GitHub survives and how far I can go.
+Created this private profile at age 7.
+Learned many programming languages.
+Made many friends.
+Created many projects.
+Faced legal charges. Went to jail.
+
+After everything, didn't earn money I wanted.
+But learned 16+ programming languages.
+Worked with people from many countries.
+
+This project taught me many things.
+Deleting all my projects now.
+Making this repository my last history.
+Making this account public after 15 years.
+
+---
+
+# Goodbye
+
+Life goes on.
+Thank you everyone.
+Goodbye from Ashraf Siddiqui.

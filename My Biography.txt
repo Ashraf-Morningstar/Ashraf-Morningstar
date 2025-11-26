@@ -1,0 +1,241 @@
+The 15-Year Journey of Ashraf Morningstar**
+Prologue — The First Commit
+
+Every story begins with a single line of code.
+For Ashraf, it began at age 7.
+A small boy, a slow computer, and a curiosity too big for his world.
+
+He didn’t know English.
+He didn’t know programming rules.
+He didn’t know what the future held.
+
+But he knew one thing:
+
+He wanted to create.
+
+And so, a tiny private GitHub profile was born — hidden, silent, waiting.
+
+A repository not of code…
+but of a life.
+
+2009–2012: Sparks in the Dark
+
+Ashraf’s early years were chaotic.
+A second-hand computer.
+Slow Wi-Fi.
+Broken Windows.
+YouTube buffering at 144p.
+And a friend named Jack who introduced him to the online world.
+
+He tried Java, failed.
+Tried English, struggled.
+Tried understanding the internet, got lost.
+
+But he did not stop.
+
+He saw new things:
+YouTube tutorials, tech blogs, 4chan rumors, strange forums, mysterious browsers.
+
+He was too young to understand them,
+but old enough to feel the pull of curiosity.
+
+By 2012, he was experimenting with Python, building his first programs with help from online strangers he never met.
+He created his first tool — a basic YouTube downloader — without knowing it was the beginning of something bigger.
+
+2013–2014: Building, Breaking, Becoming
+
+He built his first “real” software:
+AM Video Downloader, a small program made with friends Jack and Alex.
+
+For three teenagers, it was a masterpiece.
+
+For two years, they updated, patched, improved, broke, rebuilt, and loved that project.
+
+But life is not kind to young dreamers.
+
+Jack got a job.
+Alex left for studies.
+The team fell apart.
+The repository died.
+And Ashraf suddenly stood alone.
+
+This was his first taste of a truth life teaches all creators:
+
+Everything you build teaches you — but not everything stays.
+
+Yet he kept going.
+
+2015–2017: The Creator Awakens
+
+Ashraf entered a new phase:
+Freelancing…
+Experimenting…
+Graphic design…
+Websites…
+Scripts…
+Tools…
+Failures…
+Crashes…
+Breakdowns…
+Comebacks…
+
+He created weather apps, Python bots, tools for students, themes, designs, and even early automation scripts.
+
+He worked in cyber cafés when his computer failed.
+Helped strangers online without expecting anything.
+Learned from anyone who was willing to share knowledge.
+
+Then came YouTube Vanced, graphic design freelancing, and ad-blocker experiments.
+
+He gained skills.
+He gained respect.
+He gained followers.
+
+But he also faced complaints, takedown notices, and pressure.
+
+He learned another truth:
+
+The internet gives you everything,
+but demands everything back.
+
+2018–2019: Breaking Point, Turning Point
+
+Ashraf pushed himself hard — too hard.
+New tools, bots, programs, extensions, projects.
+
+But pressure grows.
+
+College.
+Family.
+Financial stress.
+Health issues.
+Mental burnout.
+And a local legal situation that changed everything.
+
+He deleted accounts.
+Lost years of work.
+Sold his laptop.
+Shut down nearly all projects.
+
+He became a ghost in the digital world.
+
+But not defeated.
+
+After the storm, he rebuilt himself.
+A new Ashraf emerged — quieter, wiser, calmer.
+
+A graphic designer, not a hacker.
+A teacher, not a fighter.
+A creator, not a destroyer.
+
+His life entered a new chapter.
+
+2020–2022: Illness, Survival, and Strength
+
+During the global chaos, Ashraf’s life turned into a cycle:
+
+Work → Illness → Recovery → Work → Illness → Recovery
+
+Three times he battled severe sickness.
+
+Three times he came back.
+
+He created AI tools, random-image generators, extensions, design work, and freelancing for international clients.
+
+But more importantly…
+
+He refused to stop helping others.
+
+Even when his health collapsed, his motivation didn’t.
+
+Even when his memory weakened, his spirit didn’t.
+
+Even when he took breaks, he always returned.
+
+The world tried to break him.
+It failed.
+
+2023–2024: The Quiet Worker
+
+Ashraf focused on peace.
+
+Helping small businesses.
+Designing logos.
+Supporting friends.
+Working in the family shop.
+Dropping studies because of financial reasons.
+Returning to art and UI design.
+
+People underestimated him.
+
+They saw a shop worker, not a creator.
+A quiet boy, not a warrior.
+A designer, not a 15-year programmer.
+
+But they didn’t know the truth:
+
+He had lived a life they couldn’t imagine.
+He had built more than they ever would.
+He had survived storms they would never understand.
+
+He didn’t argue.
+
+He didn’t explain.
+
+He just kept creating.
+
+2025: The Final Commit
+
+Fifteen years after a 7-year-old boy created his first secret profile…
+
+Ashraf returned to it.
+
+Older.
+Tired.
+Experienced.
+Skilled.
+Scarred.
+But proud.
+
+He revealed his real name:
+Ashraf Siddiqui.
+
+He listed all the usernames the world knew him by:
+Morningstar, AlfaZeus, RedEye, PixelMaster, ArtWizard…
+
+He accepted his past.
+He honored his journey.
+And he made one final decision:
+
+To make the account public.
+To tell the world his story.
+To archive his life in a single last repository.
+
+The Last Repository.
+
+A memorial to everything he built,
+everything he learned,
+everything he lost,
+and everything he became.
+
+Epilogue — Goodbye, World
+
+Ashraf learned more than 16 programming languages.
+Worked with people across countries.
+Built tools, apps, designs, and ideas.
+Survived health issues, legal issues, burnout, losses, and pain.
+But through all of it…
+
+He kept kindness.
+He kept creativity.
+He kept heart.
+
+And now he closes this chapter.
+
+Not with regret.
+
+But with peace.
+
+“Hello everyone, and goodbye.
+This was my last repository.
+— Ashraf Siddiqui (Morningstar)”
