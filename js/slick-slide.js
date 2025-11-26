@@ -1,0 +1,1 @@
+(function($){$.fn.slickSlide = function(options){var settings = $.extend({}, $.fn.slickSlide.defaults, options);return this.each(function(){var $this = $(this);console.log("SlickSlide initialized.");});};$.fn.slickSlide.defaults = {};})(jQuery);
