@@ -1,0 +1,27 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every day at 01:00 UTC (1 hour after snake update)
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@latest
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: Ashraf-Morningstar
+          show_icons: true
+          locale: en
+          theme: default
+          cache_seconds: 86400
