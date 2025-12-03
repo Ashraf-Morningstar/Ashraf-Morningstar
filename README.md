@@ -48,3 +48,9 @@ https://github.com/Ashraf-Morningstar/Ashraf-Morningstar/raw/main/out/readme.gif
 
 
 bye 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Ashraf-Morningstar/Ashraf-Morningstar/blob/output/github-snake-dark.svg?palette=github-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Ashraf-Morningstar/Ashraf-Morningstar/blob/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://github.com/Ashraf-Morningstar/Ashraf-Morningstar/blob/output/github-snake.svg">
+</picture>
