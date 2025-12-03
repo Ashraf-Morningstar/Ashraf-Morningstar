@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     # Runs every day at 00:00 UTC
-    - cron: "0 0 * * *"
+    - cron: "12 43 * * *"
   workflow_dispatch: # Allows manual trigger
   push:
     branches:
